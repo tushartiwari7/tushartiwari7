@@ -26,5 +26,5 @@ I am Tushar Tiwari, currently pursuing my bachelor's degree majoring in computer
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
 ## 👨‍💻 Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tushartiwari7&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushartiwari7&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tushartiwari7&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushartiwari7&hide=TeX&layout=compact&theme=tokyonight)
