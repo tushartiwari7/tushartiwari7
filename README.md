@@ -1,2 +1,1 @@
-# tushartiwari7
- 
+# tushartiwari.me
