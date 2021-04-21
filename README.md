@@ -24,6 +24,8 @@ I am Tushar Tiwari, currently pursuing my bachelor's degree majoring in computer
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-gray?style=flat-square&logo=github&logoColor=5ce500)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![FireBase](https://img.shields.io/badge/-firebase-8E1C04?style=flat-square&logo=firebase)
+![Namecheap](https://img.shields.io/badge/Namecheap-E34F26?style=flat-square&logo=Namecheap)
 
 ## 👨‍💻 Github Stats
 
