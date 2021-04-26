@@ -29,7 +29,16 @@ I am Tushar Tiwari, currently pursuing my bachelor's degree majoring in computer
 
 ## 👨‍💻 Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tushartiwari7&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&card_width=100)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushartiwari7&hide=TeX&theme=tokyonight&layout=compact)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tushartiwari7&theme=tokyonight" width="50%"/>
-![Tushar's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tushartiwari7)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tushartiwari7" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushartiwari7&hide=TeX&theme=tokyonight" />
+</a>
+ 
+<a href="#">
+  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushartiwari7&theme=tokyonight" />
+</a>
+<a href="#">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=tushartiwari7&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+</a>
