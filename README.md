@@ -11,6 +11,7 @@ I am Tushar Tiwari, currently pursuing my bachelor's degree majoring in computer
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Next.js](https://img.shields.io/badge/NExtJs-222222?style=flat-square&logo=Next.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Netlify](https://img.shields.io/badge/-Netlify-gray?style=flat-square&logo=netlify)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
