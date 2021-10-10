@@ -29,17 +29,10 @@ I am Tushar Tiwari, currently pursuing my bachelor's degree majoring in computer
 ![Namecheap](https://img.shields.io/badge/Namecheap-E34F26?style=flat-square&logo=Namecheap)
 
 ## 👨‍💻 Github Stats
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tushartiwari7" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushartiwari7&hide=TeX&theme=tokyonight" />
-</a>
  
 <a href="#">
-  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushartiwari7&theme=tokyonight" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=tushartiwari7&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </a>
 <a href="#">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=tushartiwari7&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushartiwari7&theme=tokyonight" />
 </a>
