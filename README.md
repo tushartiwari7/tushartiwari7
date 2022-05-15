@@ -1,38 +1,18 @@
 ## Fancy seeing you here!  <img src="https://raw.githubusercontent.com/tushartiwari7/tushartiwari7/main/wave.gif" width="30px">
 
-I am Tushar Tiwari, currently in my Final Year of bachelor's degree majoring in computer science from [PTU,Mohali Campus](https://mohali.ptu.ac.in/). I am a tech enthusiast and a technical writer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+A **2022 B.Tech CSE** graduate from [PTU,Mohali Campus](https://mohali.ptu.ac.in/). 
+I primarly work with Javascript and React. I love communicating, making new connections & discussing about ideas, projects and startup. I write articles on [Hashnode](https://blog.tusharcodes.tech). I document my journey on [Twitter](https://twitter.com/tushartiwarii).
 
-[![Linkedin Badge](https://img.shields.io/badge/-tushartiwari0172-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushartiwari0172/)](https://www.linkedin.com/in/tushartiwari0172/)
-[![Website Badge](https://img.shields.io/badge/-Website-333?style=flat-square&logo=webmoney&logoColor=white&link=http://tushartiwari.me)](http://tusharcodes.tech)
-[![Twitter Badge](https://img.shields.io/badge/-tushartiwarii-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tushartiwarii)](https://twitter.com/tushartiwarii)
-[![Gmail Badge](https://img.shields.io/badge/-hire@tusharcodes.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hire@tusharcodes.tech)](mailto:hire@tusharcodes.tech)
+### Preffered Tech Stack - `React`, `JavaScript` and `TypeScript`
+>  Excited about - `ExpressJs`, `React Native` and `jQuery` 
 
+## Connect with me -
+- [Peerlist](https://peerlist.io/tushartiwari)
+- [Linkedin](https://linkedin.com/in/tushartiwari0172)
+- [Twitter](https://twitter.com/tushartiwarii)
+- [Hashnode](https://hashnode.com/@tushartiwari)
 
-## ⚡ Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Next.js](https://img.shields.io/badge/NExtJs-222222?style=flat-square&logo=Next.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Netlify](https://img.shields.io/badge/-Netlify-gray?style=flat-square&logo=netlify)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20studio%20code-grey?style=flat-square&logo=visual-studio-code&logoColor=blue)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-gray?style=flat-square&logo=github&logoColor=5ce500)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![FireBase](https://img.shields.io/badge/-firebase-8E1C04?style=flat-square&logo=firebase)
-![Namecheap](https://img.shields.io/badge/Namecheap-E34F26?style=flat-square&logo=Namecheap)
-
-## 👨‍💻 Github Stats
- 
-<a href="#">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=tushartiwari7&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
-</a>
-<a href="#">
-  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushartiwari7&theme=tokyonight" />
-</a>
+## 👨‍💻 Stats
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tushartiwari7)](https://github.com/tushartiwari7/github-readme-stats)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=tushartiwari7&theme=tokyonight)](https://github.com/tushartiwari7/tushartiwari7)
+[![xyz](https://github-readme-stats.vercel.app/api?username=tushartiwari7&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/tushartiwari7/tushartiwari7)
